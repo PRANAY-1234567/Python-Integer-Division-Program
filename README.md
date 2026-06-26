@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This project is a simple Python program that accepts two integers from the user and performs **integer division** using the floor division operator (`//`).
-
 The program demonstrates basic Python concepts such as:
 
 * User input
